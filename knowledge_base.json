@@ -1,0 +1,61 @@
+{
+  "name": "Smruti",
+  "contact": {
+    "email": "abcd@gmail.com",
+    "phone": "+91-123456",
+    "location": "India"
+  },
+  "education": [
+    {
+      "institution": "Indian Institute of Technology, Madras",
+      "degree": "BS",
+      "location": "Chennai, India",
+      "duration": "Jan 2021 - May 2025",
+      "courses": [
+        "Statistics",
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    },
+    {
+      "institution": "College of Engineering and Technology, Bhubaneswar",
+      "degree": "M.Tech",
+      "location": "Bhubaneswar, India",
+      "duration": "Aug 2018 - July 2020",
+      "courses": [
+        "Machine Learning"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "SQL"],
+    "llm_nlp": ["Model Training", "Fine-tuning", "RAG"],
+    "frameworks": ["PyTorch", "TensorFlow", "Keras"],
+    "web_development": ["Flask", "Jinja2"],
+    "tools_platforms": ["Docker", "MySQL", "Microsoft Azure"]
+  },
+  "experience": [
+    {
+      "organization": "Tech Mahindra",
+      "role": "Student Trainee",
+      "mode": "Remote",
+      "duration": "Oct 2019 - Dec 2020",
+      "projects": [
+        {
+          "title": "Customer Churn Prediction",
+          "description": "Analyzed user data from multiple sectors and built churn prediction models."
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    "Stanford University Machine Learning"
+  ],
+  "personal_insights": {
+    "life_story": "I'm a curious builder who started in computer science and found my passion in AI and data science.",
+    "superpower": "Multitasking and turning complex technical ideas into simple, working prototypes.",
+    "growth_areas": ["LLM Optimization", "AI Systems", "Emotional Intelligence"],
+    "misconception": "That I'm always serious.",
+    "push_boundaries": "By taking on projects slightly outside my comfort zone and learning through real-world problem solving."
+  }
+}
