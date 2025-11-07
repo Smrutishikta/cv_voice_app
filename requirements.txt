@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+pydub
+openai
+langchain==0.1.4
+faiss-cpu
+tiktoken
